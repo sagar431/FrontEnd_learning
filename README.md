@@ -1,4 +1,5 @@
-Creating a README learning map for frontend development on GitHub can help you stay organized and make your learning journey more engaging. Here's a sample README template for your learning map, complete with emojis:
+  
+![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)
 
 ---
 
